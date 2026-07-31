@@ -4,7 +4,7 @@ Práctica de manejo de excepciones en Python. Incluye 10 ejercicios que cubren e
 
 ## Requisitos
 
-- Python 3.14.5 (versión usada para el desarrollo y prueba de estos ejercicios)
+Python 3.14.5 (versión usada para el desarrollo y prueba de estos ejercicios)
 
 Puedes verificar la versión instalada con el comando:
 
